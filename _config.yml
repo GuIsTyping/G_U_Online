@@ -1,8 +1,8 @@
-title: Moonwalk
-author: Abhinav Saxena
-url: https://www.abhinavsaxena.com/moonwalk # root address of the site
+title: G_U_Online
+author: Jehu Jonathan Ramirez Ramirez
+url: https://guistyping.github.io/G_U_Online/ # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
+  Hola! Bienvenido a G_U_Online. Este es mi portafolio personal. Aqui encontrarás mis proyectos e información sobre mí.
 
 permalink: /:slug
 
